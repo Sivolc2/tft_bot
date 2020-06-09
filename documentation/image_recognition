@@ -1,0 +1,24 @@
+Goal: To read text from screen and feed into model
+
+A: Raw screen reading using OpenCV
+	Req strong transforms
+		Color negative, smoothing, greyscale
+
+B: NN text recognition
+
+C: Context based text reading
+
+
+Process:
+A Complete 
+	Requires isolation and transformations
+
+B: 2 parts
+	Read image and determine regions that may contain text
+	Run text reader on segements
+
+Train NN to recognize 
+	Check available libraries
+	Transfer learning using existing and limited labeled set
+
+	

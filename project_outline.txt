@@ -1,0 +1,21 @@
+Project notes and account
+
+Automated process for playing TFT game
+
+Conditions:
+Plays entirely without human intervention
+Learns and improves from previous games
+
+Machine <> Game interface:
+Traits:
+Identify which heroes are available
+Make a reasoned choice
+Purchace and inventory tracking
+Place in gridded pattern on map
+Appear to be human in interface interaction
+Bonus: item/placement identification
+
+Modules:
+Screen identification
+	
+
